@@ -9,7 +9,7 @@ I'm a French engineer who studied data science and artificial intelligence at Ce
 - and many others
 
 ### 🧰 Tools I master
-- 💻 Languages: Python, R, MatLab, SQL
+- 💻 Languages: Python, R, SQL, MatLab
 - 💾 Tools: VSCode, JupyterNotebook, Google Colab, GitLab/GitHub, Dataiku, Tableau Desktop, PowerBI
 - 📃 Python libraries:
     * for data: numpy, pandas, scipy, matplotlib, seaborn, altair, plotly

@@ -9,16 +9,17 @@ I'm a French engineer who studied data science and artificial intelligence at Ce
 - and many others
 
 ### 🧰 Tools I master
-- 💻 Languages: Python, R, SQL, MatLab
+- 💻 Systems: Windows, Linux
+- ☁️ Cloud: Azure
+- 📢 Languages: Python, R, LateX, SQL, MatLab
 - 💾 Tools: VSCode, JupyterNotebook, Google Colab, GitLab/GitHub, Dataiku, Tableau Desktop, PowerBI
 - 📃 Python libraries:
-    * for data: numpy, pandas, scipy, matplotlib, seaborn, altair, plotly
+    * for data and visualization: numpy, pandas, scipy, matplotlib, seaborn, altair, plotly, streamlit
     * for network: networkx
-    * for computer vision: opencv, cv2, pandasvision
-    * for visualization: streamlit
+    * for computer vision: openCV, cv2, pandasvision
     * for ML: scikit-learn, statsmodels
-    * for DL: PyTorch, Tensorflow, HuggingFace, transformers
+    * for DL: PyTorch, Tensorflow, HuggingFace libraries, transformers, NLTK
 
 ### 📫 How to reach me
 - 📧 email: antoine.dargier@gmail.com
-- 📢 LinkedIn: https://www.linkedin.com/in/antoine-dargier/
+- 📱 LinkedIn: https://www.linkedin.com/in/antoine-dargier/

@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Antoine 👋
 
-I'm a French engineer who studied data science and artificial intelligence at CentraleSupélec, Université Paris-Saclay, France. I'm currently a Data Scientist consultant at HeadMind Partners based in Paris. I'm working on AI projects for big French companies.
+I'm a French engineer who studied data science and artificial intelligence at CentraleSupélec, Université Paris-Saclay, France. I'm working on AI projects for big French companies.
 
 ### 📝 My main projects
 - 🌱 Environmental Communication Index: project to transcribe radio podcasts and create a topic classification on transcription and newspapers to measure environmental topics
